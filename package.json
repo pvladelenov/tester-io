@@ -1,0 +1,12 @@
+{
+  "name": "tester-io",
+  "version": "0.0.0",
+  "url": "https://github.com/pvladelenov/tester-io",
+  "devDependencies": {
+    "webdriver-manager": "^12.1.7"
+  },
+  "private": true,
+  "scripts": {
+    "start": "webdriver-manager start"
+  }
+}
